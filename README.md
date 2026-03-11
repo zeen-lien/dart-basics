@@ -1,8 +1,75 @@
-# Pengantar Dart
+# Dart Basics - Pengantar Dart
 
-Modul Mata Kuliah Pemrograman Mobile | Teknik Informatika UNISNU JEPARA | Akhmad Khanif Zyen | 2023
+Repository ini berisi tugas dan latihan untuk mata kuliah **Pemrograman Mobile** - Pertemuan 1: Dasar-Dasar Dart
+
+**Mahasiswa:** Zaini Leon Musthofa Kamal  
+**Dosen:** Akhmad Khanif Zyen  
+**Institusi:** Teknik Informatika UNISNU JEPARA  
+**Tahun:** 2023
 
 ---
+
+## 📚 Tentang Repository Ini
+
+Repository ini merupakan hasil fork dan pengerjaan tugas dari modul pembelajaran Dart dasar. Materi yang dipelajari mencakup fundamental programming dengan bahasa Dart sebagai persiapan untuk pengembangan aplikasi mobile menggunakan Flutter.
+
+## 📂 Struktur Repository
+
+```
+dart-basics/
+├── README.md                    # Dokumentasi utama (file ini)
+└── dart_project/
+    └── bin/
+        └── pertemuan1/          # Folder tugas pertemuan 1
+            ├── README.md        # Dokumentasi pertemuan 1
+            ├── latihan1_soal1.dart - latihan1_soal11.dart
+            └── latihan2_soal1.dart - latihan2_soal10.dart
+```
+
+## 🎯 Materi yang Dipelajari
+
+### Pertemuan 1: Dasar-Dasar Dart
+- ✅ Tipe Data (String, int, double, bool, List, Map, dll)
+- ✅ Variabel dan Konstanta
+- ✅ Operator (Aritmatika, Relasional, Logika)
+- ✅ Input dari User
+- ✅ Percabangan (if-else, switch-case)
+- ✅ Perulangan (for, while, do-while, for-in)
+
+**Total Tugas:** 21 soal (11 soal latihan 1 + 10 soal latihan 2)
+
+## 🚀 Cara Menjalankan Program
+
+Untuk menjalankan file Dart, gunakan perintah:
+
+```bash
+dart run dart_project/bin/pertemuan1/nama_file.dart
+```
+
+Contoh:
+```bash
+dart run dart_project/bin/pertemuan1/latihan1_soal1.dart
+```
+
+## 📝 Catatan Pembelajaran
+
+Setiap file kode dilengkapi dengan:
+- Komentar penjelasan detail di setiap baris
+- Penjelasan konsep yang digunakan
+- Contoh implementasi sesuai materi dosen
+
+## 🔗 Link Terkait
+
+- [Dokumentasi Dart Official](https://dart.dev/guides)
+- [DartPad - Online Dart Editor](https://dartpad.dev/)
+- [Flutter Documentation](https://flutter.dev/docs)
+
+---
+
+## 📖 Dokumentasi Lengkap Materi
+
+<details>
+<summary>Klik untuk melihat dokumentasi lengkap materi Dart</summary>
 
 > **Cara menggunakan modul ini:**
 >
